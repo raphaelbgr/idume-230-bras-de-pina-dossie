@@ -7,10 +7,16 @@
 
 ---
 
-> ## 💰 Valor judicial do imóvel: **R$ 890.000,00**
+> ## 💰 Avaliação do imóvel — situação atual
 >
-> **Avaliação determinada pelo juízo em 2012**, citada em peça processual.
-> Valor histórico — recomenda-se reavaliação atual de mercado pela corretora antes de operar.
+> **NÃO HÁ AVALIAÇÃO JUDICIAL CONHECIDA DO IDUMÉ 230.**
+>
+> Únicas referências numéricas existentes:
+> - **IRPF 2014–2016: R$ 190.575,88** — valor declarativo/fiscal (histórico, conservador, **não é valor de mercado**)
+>
+> **Avaliação atual de mercado: pendente** — é justamente o que estamos pedindo à corretora.
+>
+> ⚠️ *Nota de transparência: docs internos meus traziam um valor de R$ 890.000 atribuído a este imóvel, mas a fonte primária (peça processual no processo 0490531-45.2012.8.19.0001) mostra que essa avaliação é do **apartamento de Laranjeiras 704 (Cond. Pedra do Sol)** — outro imóvel familiar, não o Idumé 230. O valor de R$ 890k não se aplica a este endereço.*
 
 ---
 
@@ -79,12 +85,14 @@ Houve uma renúncia formalizada em 2025-03-11, mas **escopo restrito apenas aos 
 
 | Fonte | Valor | Data | Observação |
 |---|---|---|---|
-| Avaliação judicial | **R$ 890.000,00** | 2012 | Citada em peça processual; corretora deve reavaliar para 2026 |
-| IRPF (Bens e Direitos) | R$ 190.575,88 | 2014–2016 | Valor histórico/declarativo |
-| Estimativa Jus-IA | R$ 400–500 mil | abr/2026 | Bruta, baseada em comparação regional |
-| **Recomendado para uso atual** | **A reavaliar (2026)** | — | Pedir parecer da corretora |
+| IRPF (Bens e Direitos) | R$ 190.575,88 | 2014–2016 | Valor declarativo/fiscal — **não reflete valor de mercado** |
+| Avaliação judicial do Idumé 230 | **NÃO EXISTE** | — | Sem laudo conhecido. Imóvel nunca foi avaliado em processo |
+| Estimativa Jus-IA | R$ 400–500 mil | abr/2026 | Estimativa bruta por comparação regional (não é laudo) |
+| **Recomendado para uso atual** | **A reavaliar (2026)** | — | Pedir laudo formal à corretora |
 
-> Idumé 230 é **CASA**. Light registra consumo baixo (R$ 106–119/mês de 2023 a mar/2026), compatível com imóvel pouco habitado.
+**Não confundir com Laranjeiras 704:** docs anteriores meus mencionavam uma avaliação judicial de R$ 890.000 atribuída a "este imóvel". Ao verificar a fonte primária (peça processual no processo 0490531-45.2012.8.19.0001 / 33ª Vara Cível), o valor é do **apartamento de Laranjeiras 704 (Cond. Pedra do Sol)** — outro imóvel familiar (avó paterna Ivone), não o Idumé 230. Removido para evitar erro material.
+
+> Idumé 230 é **CASA**. Light registra consumo baixo (R$ 106–119/mês de 2023 a mar/2026), compatível com imóvel pouco habitado. Em Brás de Pina (zona norte), casa de porte residencial em 2012 valeria entre R$ 200k–R$ 350k — referência regional bruta, sem substituir laudo.
 
 ---
 
