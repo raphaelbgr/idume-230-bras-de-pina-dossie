@@ -12,7 +12,19 @@
 | **PDF do Registro do Imóvel** (download direto) | https://github.com/raphaelbgr/idume-230-bras-de-pina-dossie/raw/main/Registro-Imovel-Idume-230.pdf |
 | **Pasta Google Drive** (todos os documentos) | https://drive.google.com/drive/folders/1xsxqaqLMr7q6VreyIQeWt6NAnoZepyjt |
 | **Repo GitHub** (versão controlada) | https://github.com/raphaelbgr/idume-230-bras-de-pina-dossie |
-| **Gist público** (este documento) | https://gist.github.com/raphaelbgr/1db907a1c7856818dce6583dc23380e0 |
+| **Gist (este documento)** | https://gist.github.com/raphaelbgr/d21f8abb86d1212fac8128a3d6484ce0 |
+
+## 📋 Índice
+
+1. [Identificação do imóvel](#1-identificação-do-imóvel)
+2. [Status sucessório](#2-status-sucessório)
+3. [Avaliações disponíveis](#3-avaliações-disponíveis)
+4. [Ônus, dívidas e pendências](#4-ônus-dívidas-e-pendências-conhecidas)
+5. [Viabilidade jurídica de venda / leilão](#5-viabilidade-jurídica-de-venda--leilão-resposta-à-pergunta-principal) ← **resposta principal**
+6. [Documentação existente](#6-documentação-existente-anexada-ao-drive)
+7. [Histórico de convivência com o imóvel](#7-histórico-de-convivência-com-o-imóvel)
+8. [Anexos & referências jurídicas](#8-anexos--referências)
+9. [Contatos úteis](#9-contatos-úteis)
 
 ---
 
