@@ -5,6 +5,15 @@
 **Compilado por:** Raphael B. G. N. da Rocha (filho/herdeiro) — raphaelbgr@gmail.com
 **Fontes:** Backup pessoal (Aline-PC 2012) + mineração Gmail alinegrocha77 + pesquisa jurídica Jus IA (abr/2026) + arquivos do espólio em poder da Dra. Dail Aguiar
 
+## 🔗 Links de acesso
+
+| Recurso | URL |
+|---|---|
+| **PDF do Registro do Imóvel** (download direto) | https://github.com/raphaelbgr/idume-230-bras-de-pina-dossie/raw/main/Registro-Imovel-Idume-230.pdf |
+| **Pasta Google Drive** (todos os documentos) | https://drive.google.com/drive/folders/1xsxqaqLMr7q6VreyIQeWt6NAnoZepyjt |
+| **Repo GitHub** (versão controlada) | https://github.com/raphaelbgr/idume-230-bras-de-pina-dossie |
+| **Gist público** (este documento) | https://gist.github.com/raphaelbgr/1db907a1c7856818dce6583dc23380e0 |
+
 ---
 
 ## 1. Identificação do Imóvel
