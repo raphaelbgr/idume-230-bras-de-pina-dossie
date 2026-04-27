@@ -5,6 +5,15 @@
 **Compilado por:** Raphael B. G. N. da Rocha (filho/herdeiro) — raphaelbgr@gmail.com
 **Fontes:** Backup pessoal (Aline-PC 2012) + mineração Gmail alinegrocha77 + pesquisa jurídica Jus IA (abr/2026) + arquivos do espólio em poder da Dra. Dail Aguiar
 
+---
+
+> ## 💰 Valor judicial do imóvel: **R$ 890.000,00**
+>
+> **Avaliação determinada pelo juízo em 2012**, citada em peça processual.
+> Valor histórico — recomenda-se reavaliação atual de mercado pela corretora antes de operar.
+
+---
+
 ## 🔗 Links de acesso
 
 | Recurso | URL |
